@@ -1,17 +1,153 @@
-# 👋 Hi, I'm Umar
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="gif" width="100%" />
+# Hi, I'm Umar 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umarbhrn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-baharun) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/umarbaharun_) 
+<p align="center">
+  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Coding animation"/>
+</p>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umarhyl&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=umarhyl&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarhyl&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://instagram.com/umarbhrn_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/umar-baharun">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/umarbaharun_">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=umarhyl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm an **Information Technology student at Institut Teknologi Sepuluh Nopember (ITS)** with a strong interest in **Cybersecurity, CTFs, Digital Forensics, Cryptography, Reverse Engineering, and Software Engineering**.
+
+I enjoy understanding how systems work, how they fail, and how they can be built better.
+
+My experience spans from **security monitoring and incident analysis** to building **web applications, backend systems, and low-level system experiments**.
+
+### A little more about me
+
+- 🎓 Information Technology @ ITS
+- 🚩 CTF Player — mainly **Crypto, Forensics, and Reverse Engineering**
+- 🛡️ Former **L1 Cyber Security Analyst Intern**
+- 🔐 Interested in **Offensive Security, Digital Forensics, and Network Security**
+- ⚙️ Exploring **Linux, Networking, Operating Systems, and Low-level Programming**
+- 💻 Building web applications, backend systems, and security-related projects
+- ♟️ Occasionally playing chess when I'm not debugging something
+
+> Somewhere between software engineering and breaking things on purpose.
+
+---
+
+## 🧪 What I Like Building
+
+I enjoy projects where I can **build something, understand how it works, and figure out how it breaks**.
+
+### 🔐 Security
+
+CTF tooling · Digital Forensics · Network Analysis · Security Experiments
+
+### 🌐 Engineering
+
+Web Applications · APIs · Backend Systems · Database-driven Applications
+
+### ⚙️ Systems
+
+Linux · Networking · Operating Systems · Low-level Programming
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart,bash" />
+</p>
+
+### Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,nodejs,laravel,fastapi" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel,cloudflare,aws,vscode" />
+</p>
+
+---
+
+## 🔐 Security Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ghidra-A80000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Volatility-222222?style=flat-square"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Security & CTF
+
+- CTF scripts and challenge experiments
+- Digital forensics investigations
+- Cryptography tooling and exploit experiments
+- Reverse engineering practice
+
+### 🌐 Software Engineering
+
+- Backend systems with **FastAPI, Node.js, and Laravel**
+- Web applications using **Next.js, React, and Vue**
+- Database-driven applications with **MySQL, PostgreSQL, and MongoDB**
+
+### ⚙️ Systems & Networking
+
+- Linux system experiments
+- Operating systems projects
+- Network labs and security testing
+- Low-level programming in C / C++
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=umarhyl&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarhyl&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarhyl&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarhyl&theme=github-compact&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umarhyl&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <i>Build it. Understand it. Break the assumptions.</i>
+</p>
